@@ -1,13 +1,10 @@
 # tipi
 
-A Clojure library designed to ... well, that part is up to you.
+[![Build Status](https://travis-ci.org/vijaykiran/tipi.png)](https://travis-ci.org/vijaykiran/tipi)
 
-## Usage
-
-FIXME
 
 ## License
 
-Copyright © 2012 FIXME
+Copyright © 2012 Vijay Kiran
 
 Distributed under the Eclipse Public License, the same as Clojure.
